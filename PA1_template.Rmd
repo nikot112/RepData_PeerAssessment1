@@ -1,6 +1,6 @@
 ---
 title: "PA1_template"
-author: "Nick Tsirlis"
+author: "Nick"
 date: "May 14, 2015"
 output:
   html_document:
