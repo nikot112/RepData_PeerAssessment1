@@ -1,5 +1,5 @@
 # PA1_template
-Nick Tsirlis  
+Nick 
 May 14, 2015  
 Reproducible Research Coursera Course - Programming Assignment 1
 
